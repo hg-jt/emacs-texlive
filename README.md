@@ -13,15 +13,16 @@ is `latexmk`.
 In addition to what the Tex Live distribution packages, the following open
 source fonts are included:
 
-| Name                                                                    | License     |
-| ----------------------------------------------------------------------- | ----------- |
-| [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro) | [OFL 1.1]   |
-| [Adobe Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro) | [OFL 1.1]   |
-| [Lato](http://www.latofonts.com/lato-free-fonts/)                       | [OFL 1.1]   |
-| [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text)     | [OFL 1.1]   |
-| [Libre Franklin](https://github.com/impallari/Libre-Franklin)           | [OFL 1.1]   |
-| [Montserrat](https://github.com/JulietaUla/Montserrat)                  | [OFL 1.1]   |
-| [Nimbus Sans L](https://www.fontsquirrel.com/fonts/nimbus-sans-l)       | [GNU GPLv2] |
+| Name                                                                      | License     |
+| ------------------------------------------------------------------------- | ----------- |
+| [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)   | [OFL 1.1]   |
+| [Adobe Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)   | [OFL 1.1]   |
+| [Adobe Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro) | [OFL 1.1]   |
+| [Lato](http://www.latofonts.com/lato-free-fonts/)                         | [OFL 1.1]   |
+| [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text)       | [OFL 1.1]   |
+| [Libre Franklin](https://github.com/impallari/Libre-Franklin)             | [OFL 1.1]   |
+| [Montserrat](https://github.com/JulietaUla/Montserrat)                    | [OFL 1.1]   |
+| [Nimbus Sans L](https://www.fontsquirrel.com/fonts/nimbus-sans-l)         | [GNU GPLv2] |
 
 [OFL 1.1]: https://opensource.org/licenses/OFL-1.1
 [GNU GPLv2]: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
