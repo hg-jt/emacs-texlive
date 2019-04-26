@@ -1,7 +1,10 @@
 # emacs-lexlive CHANGELOG
 
 ## [Unreleased]
+
+### Added
   + Added *Montserrat*
+  + Added "daily standup" example
 
 ## [1.0.6]
 

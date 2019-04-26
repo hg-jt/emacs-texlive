@@ -10,18 +10,18 @@
 (eval-after-load "org"
   (lambda ()
    (setq org-agenda-default-appointment-duration 30
-          org-export-with-toc nil
-          org-export-with-author nil
-          org-export-with-title nil
-          org-export-with-section-numbers nil
-          org-export-with-smart-quotes t
-          org-latex-pdf-process '("latexmk -xelatex %f")
-          org-latex-default-class "simple"
-          org-latex-title-command "\\date{} \\maketitle")
+         org-export-with-toc nil
+         org-export-with-author nil
+         org-export-with-title nil
+         org-export-with-section-numbers nil
+         org-export-with-smart-quotes t
+         org-latex-pdf-process '("latexmk -xelatex %f")
+         org-latex-default-class "simple"
+         org-latex-title-command "\\date{} \\maketitle")
 
-    (unless (boundp 'org-latex-classes)
-      (setq org-latex-classes nil))
-    (add-to-list 'org-latex-classes
+   (unless (boundp 'org-latex-classes)
+     (setq org-latex-classes nil))
+   (add-to-list 'org-latex-classes
                  '("simple"
                    "\\documentclass[11pt]{article}
     \\usepackage{amssymb}                         % AMS math symbols
