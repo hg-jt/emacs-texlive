@@ -7,6 +7,10 @@
   + Added "daily standup" example
 
 
+### Removed
+  + Removed *Lato*
+
+
 ## [1.0.6]
 
 ### Fixed
