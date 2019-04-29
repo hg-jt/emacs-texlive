@@ -6,11 +6,13 @@
 *.aux
 *.fdb_latexmk
 *.fls
+*.ics
 *.log
 *.out
 *.xdv
 *.pdf
-examples/orgmode/*.tex
+*.tar.gz
+examples/orgmode/article/*.tex
 
 
 # --------------------

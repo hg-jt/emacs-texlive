@@ -18,6 +18,7 @@ source fonts are included:
 | [Adobe Source Code Pro](https://github.com/adobe-fonts/source-code-pro)   | [OFL 1.1]   |
 | [Adobe Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro)   | [OFL 1.1]   |
 | [Adobe Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro) | [OFL 1.1]   |
+| [Jost*](https://github.com/indestructible-type/Jost)                      | [OFL 1.1]   |
 | [Libre Caslon Text](https://github.com/impallari/Libre-Caslon-Text)       | [OFL 1.1]   |
 | [Libre Franklin](https://github.com/impallari/Libre-Franklin)             | [OFL 1.1]   |
 | [Montserrat](https://github.com/JulietaUla/Montserrat)                    | [OFL 1.1]   |

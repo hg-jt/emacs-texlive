@@ -1,0 +1,8 @@
+#+TITLE: Bar Calendar
+
+* Task 3
+  SCHEDULED: <2019-05-13 Mon>
+
+
+* Task 4
+  SCHEDULED: <2019-05-17 Fri>

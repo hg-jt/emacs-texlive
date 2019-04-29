@@ -1,0 +1,8 @@
+#+TITLE: Foo Calendar
+
+* Task 1
+  SCHEDULED: <2019-04-29 Mon>
+
+
+* Task 2
+  SCHEDULED: <2019-05-01 Wed>

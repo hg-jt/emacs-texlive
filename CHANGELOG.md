@@ -3,8 +3,9 @@
 ## [Unreleased]
 
 ### Added
-  + Added *Montserrat* and *Source Serif Pro*
+  + Added *Jost*, *Montserrat*, and *Source Serif Pro*
   + Added "daily standup" example
+  + Added icalendar example
 
 
 ### Removed
