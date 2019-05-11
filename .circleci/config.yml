@@ -4,7 +4,7 @@ executors:
     environment:
       IMAGE_NAME: hgjt/emacs-texlive
     docker:
-      -image: circleci/buildpack-deps:stretch
+      - image: circleci/buildpack-deps:stretch
 jobs:
   build:
     executor: docker-publisher
