@@ -13,7 +13,7 @@ jobs:
       - setup_remote_docker
       - run:
           name: Build Docker image
-          comand: |
+          command: |
             docker build -t $(IMAGE_NAME):latest .
       - run:
           name: Archive Docker image
