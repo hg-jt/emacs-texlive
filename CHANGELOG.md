@@ -3,13 +3,14 @@
 ## [Unreleased]
 
 ### Added
-  + Added *Jost*, *Montserrat*, and *Source Serif Pro*
+  + Added fonts: *Jost*, *Montserrat*, *Public Sans*, and *Source Serif Pro*
   + Added "daily standup" example
   + Added icalendar example
+  + Added org-reveal and htmlize - for exporting reveal.js presentations
 
 
 ### Removed
-  + Removed *Lato*
+  + Removed font: *Lato*
 
 
 ## [1.0.6]

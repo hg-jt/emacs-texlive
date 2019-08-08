@@ -23,6 +23,7 @@ source fonts are included:
 | [Libre Franklin](https://github.com/impallari/Libre-Franklin)             | [OFL 1.1]   |
 | [Montserrat](https://github.com/JulietaUla/Montserrat)                    | [OFL 1.1]   |
 | [Nimbus Sans L](https://www.fontsquirrel.com/fonts/nimbus-sans-l)         | [GNU GPLv2] |
+| [Public Sans](https://github.com/uswds/public-sans)                       | [OFL 1.1]   |
 
 [OFL 1.1]: https://opensource.org/licenses/OFL-1.1
 [GNU GPLv2]: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
@@ -33,9 +34,9 @@ source fonts are included:
 >       -v /Library/fonts:/usr/share/fonts/truetype \
 >       hgjt/emacs-texlive:latest
 
-A copy of Emacs 25 with the latest version of Org Mode is also included, which
+A copy of Emacs 26 with the latest version of Org Mode is also included, which
 can be used as a headless compiler for converting *.org* files to *PDF*. See
-*User Case #2* for example.
+*Use Case #2* for an example.
 
 
 ## Docker

@@ -39,7 +39,7 @@ apt-get install -y --no-install-recommends \
 # Install & configure Emacs
 # ----------------------------------------
 apt-get install -y --no-install-recommends emacs-nox
-emacs --script /root/install-org.el               # install latest org-mode
+emacs --script /root/install-pkgs.el              # install updated org + markdown-mode
 
 
 # ----------------------------------------
@@ -66,4 +66,7 @@ rm -r /tmp/fonts
 
 
 # clean up os packages
-apt-get purge -y unzip && apt-get clean -y && apt-get autoclean -y && apt-get autoremove -y
+apt-get purge -y unzip
+apt-get clean -y
+apt-get autoclean -y
+apt-get autoremove -y
