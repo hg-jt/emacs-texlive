@@ -7,6 +7,7 @@
   + Added "daily standup" example
   + Added icalendar example
   + Added org-reveal and htmlize - for exporting reveal.js presentations
+  + Added reveal.js example
 
 
 ### Removed
@@ -17,6 +18,7 @@
 
 ### Fixed
   + Typo in provisioning script that was preventing texlive from installing
+
 
 ## [1.0.5]
 
@@ -70,4 +72,6 @@
   + Various tweaks to the project configuration and included fonts.
 
 
-[Unreleased]: https://github.com/hg-jt/emacs-texlive/tree/develop
+[Unreleased]: https://github.com/hg-jt/emacs-texlive/compare/1.0.6...develop
+[1.0.6]: https://github.com/hg-jt/emacs-texlive/compare/1.0.5...1.0.6
+[1.0.5]: https://github.com/hg-jt/emacs-texlive/tree/1.0.5
