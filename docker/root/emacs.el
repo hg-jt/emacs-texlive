@@ -19,6 +19,11 @@
          org-latex-default-class "simple"
          org-latex-title-command "\\date{} \\maketitle")
 
+   ;; load ox-reveal for easier programtic export via
+   ;; org-reveal-export-to-html
+   (when (locate-library "ox-reveal")
+     (require 'ox-reveal))
+
    (unless (boundp 'org-latex-classes)
      (setq org-latex-classes nil))
    (add-to-list 'org-latex-classes

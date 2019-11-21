@@ -13,6 +13,7 @@
 *.pdf
 *.tar.gz
 examples/orgmode/article/*.tex
+examples/orgmode/revealjs/*.html
 
 
 # --------------------
