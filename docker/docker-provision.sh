@@ -27,7 +27,7 @@ apt-get install -y --no-install-recommends \
         xz-utils \
         xzdec \
         texlive \
-        texlive-generic-recommended \
+        texlive-plain-generic \
         texlive-latex-recommended \
         texlive-latex-extra \
         texlive-xetex \

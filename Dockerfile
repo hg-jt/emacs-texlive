@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:bullseye-slim
 WORKDIR /docs
 ENV LANG C.UTF-8
 COPY docker /

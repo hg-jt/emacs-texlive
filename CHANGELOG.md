@@ -10,6 +10,10 @@
   + Added reveal.js example
 
 
+### Changed
+  + Upgrade from Debian "Buster" to Debian "Bullseye"
+
+
 ### Removed
   + Removed font: *Lato*
 
