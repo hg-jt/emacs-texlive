@@ -11,6 +11,7 @@
   (lambda ()
    (setq org-agenda-default-appointment-duration 30
          org-export-with-toc nil
+         org-export-with-date nil
          org-export-with-author nil
          org-export-with-title nil
          org-export-with-section-numbers nil
